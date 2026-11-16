@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Agência de comunicação, marketing e produção audiovisual: estratégia, branding, design, fotografia, vídeo, redes sociais e publicidade.",
   openGraph: {
-    title: "2L Studio",
+    title: "2L Studios",
     description: "Quem não é visto, não é lembrado. Agência de comunicação, marketing e produção audiovisual.",
     type: "website",
     locale: "pt_PT",
